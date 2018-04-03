@@ -1,3 +1,7 @@
+# My Version
+To play my version of 2048, click below
+http://nishantshah57.github.io/2048/
+
 # Make 2048
 A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
